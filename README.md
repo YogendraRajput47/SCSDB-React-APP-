@@ -1,12 +1,45 @@
-# React + Vite
+🎬 Movie App – Frontend Domination Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a Movie App built as part of the Frontend Domination course by Sheriyans Coding School. The project focuses on strengthening core frontend development skills by implementing a real-world application that allows users to explore, search, and view details about movies.
 
-Currently, two official plugins are available:
+The app is developed using React.js, one of the most popular JavaScript libraries for building user interfaces. It follows a component-based architecture, ensuring reusability, scalability, and maintainability. By working on this project, learners not only gain hands-on experience with React but also get comfortable with integrating third-party APIs, managing state, handling props, and applying responsive design principles to create a seamless user experience across devices.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✨ Key Features
 
-## Expanding the ESLint configuration
+Search Functionality: Users can easily search for movies by title.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Movie Details: Displays important information such as poster, title, description, release date, and rating.
+
+Responsive Design: Optimized layouts for mobile, tablet, and desktop devices.
+
+Dynamic UI: Interactive and visually appealing design to improve user engagement.
+
+API Integration: Fetches real-time data from a movie API to keep content updated.
+
+🛠️ Tech Stack
+
+React.js – for building the user interface
+
+CSS / TailwindCSS – for styling and responsiveness
+
+JavaScript (ES6+) – for dynamic functionality
+
+Movie Database API – for fetching movie data
+
+🚀 Learning Outcomes
+
+This project helps in mastering:
+
+React fundamentals (components, props, state, hooks)
+
+API integration and asynchronous data handling
+
+Responsive layouts with CSS/Tailwind
+
+Structuring and organizing a scalable frontend project
+
+Debugging and optimizing React applications
+
+🎯 Purpose
+
+The Movie App is more than just a project; it is a stepping stone towards mastering frontend development. By building this application, learners gain practical experience in creating real-world web apps that showcase modern development practices. It serves as a strong portfolio project to demonstrate skills in React.js, responsive design, and API-driven development.
